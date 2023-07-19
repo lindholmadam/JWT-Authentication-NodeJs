@@ -1,0 +1,16 @@
+// lets us make rest requests, API requests to our API
+// Works like postman but with the REST Client extension
+
+GET http://localhost:3000/posts
+
+
+###
+
+
+POST http://localhost:3000/login
+Content-Type: application/application/json
+
+
+{
+    "username": "Kyle"
+}
